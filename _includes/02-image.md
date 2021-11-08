@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![javascript](https://static.javatpoint.com/images/javascript/javascript_logo.png)
